@@ -28,18 +28,6 @@ const PortfolioCard = ({ title, category, likeCount, image, path, texts }) => {
                             <div className="category-list">
                                 <Anchor path={path}>{category}</Anchor>
                             </div>
-                            <div className="meta">
-                                <span>
-                                    <button type="button">
-                                        <Icon
-                                            name="Heart"
-                                            size={13}
-                                            strokeWidth={3}
-                                        />{" "}
-                                        {likeCount && likeCount}
-                                    </button>
-                                </span>
-                            </div>
                         </div>
                         <h4 className="title">
                             <Anchor path={path}>

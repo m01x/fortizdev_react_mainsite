@@ -117,19 +117,19 @@
             "items": [
                 {
                     "id": 1,
-                    "title": "The services provide for design",
-                    "category": "Development",
+                    "title": "Sitio corporativo CORMUDESI",
+                    "category": "Wordpress - Web Design",
                     "texts": [
                         {
-                            "content": "Cupiditate distinctio assumenda explicabo veniam temporibus eligendi."
+                            "content": "Sitio web corporativo de CORMUDESI (2019 - 2024)."
                         },
                         {
-                            "content": "Dolorum alias suscipit rerum maiores aliquam earum odit, nihil culpa quas iusto hic minus!"
+                            "content": "Sitio web con diseño personalizado, montado en Wordpress, con secciones de noticias, servicios y contacto."
                         }
                     ],
                     "images": [
                         {
-                            "src": "../images/portfolio/portfolio-01.jpg"
+                            "src": "../images/portfolio/websalud.png"
                         }
                     ],
                     "path": "#!",
@@ -137,19 +137,19 @@
                 },
                 {
                     "id": 2,
-                    "title": "Mobile app landing design & app maintain",
-                    "category": "Application",
+                    "title": "Diseño e imagen corporativa",
+                    "category": "Diseño",
                     "texts": [
                         {
-                            "content": "Cupiditate distinctio assumenda explicabo veniam temporibus eligendi."
+                            "content": "Diseño de vectores e imagenes para redes sociales y sitios web, en apoyo a la nueva identidad de la empresa, Centro Tecnológico Minero 2015."
                         },
                         {
-                            "content": "Dolorum alias suscipit rerum maiores aliquam earum odit, nihil culpa quas iusto hic minus!"
+                            "content": "Photoshop e Illustrator, vectorizado de imagenes, trabajo con mockups."
                         }
                     ],
                     "images": [
                         {
-                            "src": "../images/portfolio/portfolio-02.jpg"
+                            "src": "../images/portfolio/diseno.png"
                         }
                     ],
                     "path": "#!",
@@ -157,19 +157,19 @@
                 },
                 {
                     "id": 3,
-                    "title": "Logo design creativity & Application",
-                    "category": "Photoshop",
+                    "title": "Sistema de gestión de Honorarios",
+                    "category": "Web development - Web design",
                     "texts": [
                         {
-                            "content": "Cupiditate distinctio assumenda explicabo veniam temporibus eligendi."
+                            "content": "Sistema para gestion, trámite y pago de honorarios para funcionarios de la Corporación Municipal de Desarrollo Social de Iquique (CORMUDESI)."
                         },
                         {
-                            "content": "Dolorum alias suscipit rerum maiores aliquam earum odit, nihil culpa quas iusto hic minus!"
+                            "content": "Sistema con varios perfiles y permisos de usuario, PHP, Bootstrap, JS, SQL Server."
                         }
                     ],
                     "images": [
                         {
-                            "src": "../images/portfolio/portfolio-03.jpg"
+                            "src": "../images/portfolio/honoraio.png"
                         }
                     ],
                     "path": "#!",
@@ -177,63 +177,26 @@
                 },
                 {
                     "id": 4,
-                    "title": "Mobile app landing design & Services",
-                    "category": "Figma",
+                    "title": "[Pronto] Project SyntaxBox",
+                    "category": "Web development - Web design",
                     "texts": [
                         {
-                            "content": "Cupiditate distinctio assumenda explicabo veniam temporibus eligendi."
+                            "content": "Esta es mi iniciativa personal por elaborar un manual de bolsillo o guía de referencia para desarrolladores web, con ejemplos y de rápida consulta"
                         },
                         {
-                            "content": "Dolorum alias suscipit rerum maiores aliquam earum odit, nihil culpa quas iusto hic minus!"
+                            "content": "La gran mayoria de desarrolladores conoce su lenguaje, pero no sabe sacarle el máximo del provecho (sin IA) , esta guia rápida te ayudará a consultar sin permitir que te hagan el trabajo de forma rapida."
+                        },
+                        {
+                            "content": "Sistema en desarrollo utilizando React, Redux, Bootstrap y NodeJS."
                         }
                     ],
                     "images": [
                         {
-                            "src": "../images/portfolio/portfolio-04.jpg"
+                            "src": "../images/portfolio/syntax.png"
                         }
                     ],
                     "path": "#!",
                     "likeCount": 360
-                },
-                {
-                    "id": 5,
-                    "title": "Design for tecnology & services",
-                    "category": "Web Design",
-                    "texts": [
-                        {
-                            "content": "Cupiditate distinctio assumenda explicabo veniam temporibus eligendi."
-                        },
-                        {
-                            "content": "Dolorum alias suscipit rerum maiores aliquam earum odit, nihil culpa quas iusto hic minus!"
-                        }
-                    ],
-                    "images": [
-                        {
-                            "src": "../images/portfolio/portfolio-05.jpg"
-                        }
-                    ],
-                    "path": "#!",
-                    "likeCount": 280
-                },
-                {
-                    "id": 6,
-                    "title": "App for tecnology & services",
-                    "category": "Web Design",
-                    "texts": [
-                        {
-                            "content": "Cupiditate distinctio assumenda explicabo veniam temporibus eligendi."
-                        },
-                        {
-                            "content": "Dolorum alias suscipit rerum maiores aliquam earum odit, nihil culpa quas iusto hic minus!"
-                        }
-                    ],
-                    "images": [
-                        {
-                            "src": "../images/portfolio/portfolio-06.jpg"
-                        }
-                    ],
-                    "path": "#!",
-                    "likeCount": 600
                 }
             ]
         },
@@ -253,60 +216,39 @@
                 {
                     "id": "education-section-left",
                     "section_title": {
-                        "title": "Education Quality",
-                        "subtitle": "2007 - 2010"
+                        "title": "Estudios superiores",
+                        "subtitle": "Formación académica"
                     },
                     "items": [
                         {
                             "id": 1,
-                            "title": "Personal Portfolio April Fools",
-                            "subtitle": "University of DVI (1997 - 2001)",
-                            "rating": "4.30/5",
-                            "description": "The education should be very interactual. Ut tincidunt est ac dolor aliquam sodales. Phasellus sed mauris hendrerit, laoreet sem in, lobortis mauris hendrerit ante."
+                            "title": "Ingeniero en Informática",
+                            "subtitle": "Universidad Tecnológica de Chile (2010 - 2012)",
+                            "rating": "Titulado",
+                            "description": "Titulado de la carrera profesional de Ingeniería en Informática, titulado en 2013. Continuidad de estudios desde carreta Técnico programador."
                         },
                         {
                             "id": 2,
-                            "title": "Examples Of Personal Portfolio",
-                            "subtitle": "College of Studies (2000 - 2002)",
-                            "rating": "4.50/5",
-                            "description": "Maecenas finibus nec sem ut imperdiet. Ut tincidunt est ac dolor aliquam sodales. Phasellus sed mauris hendrerit, laoreet sem in, lobortis mauris hendrerit ante."
-                        },
-                        {
-                            "id": 3,
-                            "title": "Tips For Personal Portfolio",
-                            "subtitle": "University of Studies (1997 - 2001)",
-                            "rating": "4.80/5",
-                            "description": "If you are going to use a passage. Ut tincidunt est ac dolor aliquam sodales. Phasellus sed mauris hendrerit, laoreet sem in, lobortis mauris hendrerit ante."
+                            "title": "Técnico Programador de Aplicaciones Computacionales",
+                            "subtitle": "CFT Inacap (2008 - 2010)",
+                            "rating": "Titulado",
+                            "description": "Carrera tecnica nivel superior de Programación de Aplicaciones Computacionales, mencion en .Net y Java."
                         }
                     ]
                 },
                 {
                     "id": "education-section-right",
                     "section_title": {
-                        "title": "Job Experience",
-                        "subtitle": "2007 - 2010"
+                        "title": "Postitulos y cursos",
+                        "subtitle": "Estudios complementarios"
                     },
                     "items": [
                         {
                             "id": 1,
-                            "title": "Diploma in Web Development",
-                            "subtitle": "BSE In CSE (2004 - 2008)",
-                            "rating": "4.70/5",
-                            "description": "Contrary to popular belief. Ut tincidunt est ac dolor aliquam sodales. Phasellus sed mauris hendrerit, laoreet sem in, lobortis mauris hendrerit ante."
-                        },
-                        {
-                            "id": 2,
-                            "title": "The Personal Portfolio Mystery",
-                            "subtitle": "Job at Rainbow-Themes (2008 - 2016)",
-                            "rating": "4.95/5",
-                            "description": "Generate Lorem Ipsum which looks. Ut tincidunt est ac dolor aliquam sodales. Phasellus sed mauris hendrerit, laoreet sem in, lobortis mauris hendrerit ante."
-                        },
-                        {
-                            "id": 3,
-                            "title": "Diploma in Computer Science",
-                            "subtitle": "Works at Plugin Development (2016 - 2020)",
-                            "rating": "5.00/5",
-                            "description": "Maecenas finibus nec sem ut imperdiet. Ut tincidunt est ac dolor aliquam sodales. Phasellus sed mauris hendrerit, laoreet sem in, lobortis mauris hendrerit ante."
+                            "title": "Diplomado en Administración de Base de Datos",
+                            "subtitle": "Universidad Tecnológica de Chile (2018)",
+                            "rating": "Finalizado",
+                            "description": "Diplomado enfocado al manejo, administración y mantenimiento de bases de datos relacionales en Microsoft SQL Server."
                         }
                     ]
                 }
@@ -320,33 +262,33 @@
                 {
                     "id": "default-home-skill-left",
                     "section_title": {
-                        "title": "Design Skill",
+                        "title": "Desarrollo Web",
                         "subtitle": "Features"
                     },
                     "items": [
                         {
                             "id": 1,
-                            "title": "PHOTOSHOT",
-                            "value": 85
-                        },
-                        {
-                            "id": 2,
-                            "title": "FIGMA",
+                            "title": "Desarrollo front-end",
                             "value": 95
                         },
                         {
+                            "id": 2,
+                            "title": "Desarrollo back-end",
+                            "value": 90
+                        },
+                        {
                             "id": 3,
-                            "title": "ADOBE XD",
-                            "value": 60
+                            "title": "Mobile Development",
+                            "value": 75
                         },
                         {
                             "id": 4,
-                            "title": "ADOBE ILLUSTRATOR",
-                            "value": 70
+                            "title": "Diseño gráfico",
+                            "value": 80
                         },
                         {
                             "id": 5,
-                            "title": "DESIGN",
+                            "title": "Base de datos",
                             "value": 90
                         }
                     ]
@@ -354,34 +296,34 @@
                 {
                     "id": "default-home-skill-right",
                     "section_title": {
-                        "title": "Design Skill",
+                        "title": "Soporte TI",
                         "subtitle": "Features"
                     },
                     "items": [
                         {
                             "id": 1,
-                            "title": "HTML",
-                            "value": 85
+                            "title": "Atención al cliente",
+                            "value": 98
                         },
                         {
                             "id": 2,
-                            "title": "CSS",
-                            "value": 80
+                            "title": "Redes y comunicaciones",
+                            "value": 89
                         },
                         {
                             "id": 3,
-                            "title": "JAVASCRIPT",
-                            "value": 90
+                            "title": "Configuración/mantenimiento de equipos",
+                            "value": 98
                         },
                         {
                             "id": 4,
-                            "title": "SOFTWARE",
-                            "value": 75
+                            "title": "Entorno Windows",
+                            "value": 95
                         },
                         {
                             "id": 5,
-                            "title": "PLUGIN",
-                            "value": 70
+                            "title": "Entorno Linux",
+                            "value": 79
                         }
                     ]
                 }
@@ -395,60 +337,59 @@
                 {
                     "id": "default-home-experience-left",
                     "section_title": {
-                        "title": "Education Quality",
-                        "subtitle": "2007 - 2010"
+                        "title": "2018 - Actualidad"
                     },
                     "items": [
                         {
                             "id": 1,
-                            "title": "Personal Portfolio April Fools",
-                            "subtitle": "University of DVI (1997 - 2001)",
-                            "rating": "4.30/5",
-                            "description": "The education should be very interactual. Ut tincidunt est ac dolor aliquam sodales. Phasellus sed mauris hendrerit, laoreet sem in, lobortis mauris hendrerit ante."
+                            "title": "Neptuno Pumps",
+                            "subtitle": "Ingeniero en informática (2024 - Presente)",
+                            "description": "Administración del recurso local e infraestructura tecnológica, Dominio y servidores de la planta industrial de Iquique. Participación en proyectos tecnológicos industriales."
                         },
                         {
                             "id": 2,
-                            "title": "Examples Of Personal Portfolio",
-                            "subtitle": "College of Studies (2000 - 2002)",
-                            "rating": "4.50/5",
-                            "description": "Maecenas finibus nec sem ut imperdiet. Ut tincidunt est ac dolor aliquam sodales. Phasellus sed mauris hendrerit, laoreet sem in, lobortis mauris hendrerit ante."
+                            "title": "Geobyte",
+                            "subtitle": "Desarrollador Web (2023)",
+                            "description": "Desarrollo de aplicaciones en React, Python, Node y  para proyectos mineros relacionados a la geología/geo-ciencia."
                         },
                         {
                             "id": 3,
-                            "title": "Tips For Personal Portfolio",
-                            "subtitle": "University of Studies (1997 - 2001)",
-                            "rating": "4.80/5",
-                            "description": "If you are going to use a passage. Ut tincidunt est ac dolor aliquam sodales. Phasellus sed mauris hendrerit, laoreet sem in, lobortis mauris hendrerit ante."
+                            "title": "Corporación Municipal de Iquique (CORMUDESI)",
+                            "subtitle": "Desarrollador Full Stack (2018 - 2023)",
+                            "description": "Desarrollo full stack (PHP/JS) para aplicaciones corporativas internas tales como la Intranet corporativa, el ERP Unisag y participación en todo proyecto tecnológico aplicado a salud municipal."
+                        },
+                        {
+                            "id": 4,
+                            "title": "COASIN Group",
+                            "subtitle": "Soporte Polifuncional TI (2018)",
+                            "description": "Soporte TI en terreno en faena Collahuasi - Sector de Ujina. Participación en la elaboración de protocolos y procedimientos de trabajo requeridos por la compañia."
                         }
                     ]
                 },
                 {
                     "id": "default-home-section-right",
                     "section_title": {
-                        "title": "Job Experience",
-                        "subtitle": "2007 - 2010"
+                        "title": "2012 - 2017"
                     },
                     "items": [
+                        
                         {
                             "id": 1,
-                            "title": "Diploma in Web Development",
-                            "subtitle": "BSE In CSE (2004 - 2008)",
-                            "rating": "4.70/5",
-                            "description": "Contrary to popular belief. Ut tincidunt est ac dolor aliquam sodales. Phasellus sed mauris hendrerit, laoreet sem in, lobortis mauris hendrerit ante."
+                            "title": "Colegio UNAP",
+                            "subtitle": "Ingeniero en informática (2016 - 2018)",
+                            "description": "Encargado del area TI y recursos tecnológicos del establecimiento Colegio Unap de Iquique, Administrador de red local y cuentas corporativas."
                         },
                         {
                             "id": 2,
-                            "title": "The Personal Portfolio Mystery",
-                            "subtitle": "Job at Rainbow-Themes (2008 - 2016)",
-                            "rating": "4.95/5",
-                            "description": "Generate Lorem Ipsum which looks. Ut tincidunt est ac dolor aliquam sodales. Phasellus sed mauris hendrerit, laoreet sem in, lobortis mauris hendrerit ante."
+                            "title": "Centro Tecnológico Minero",
+                            "subtitle": "Programador (2014 - 2015)",
+                            "description": "Desarrollo en PHP - JS - AngularJS - Jquery para los distintos proyectos mineros del Centro Tecnológico Minero, implementador y administrador de plataformas e-learning Sakai / Moodle para el entrenamiento minero remoto."
                         },
                         {
                             "id": 3,
-                            "title": "Diploma in Computer Science",
-                            "subtitle": "Works at Plugin Development (2016 - 2020)",
-                            "rating": "5.00/5",
-                            "description": "Maecenas finibus nec sem ut imperdiet. Ut tincidunt est ac dolor aliquam sodales. Phasellus sed mauris hendrerit, laoreet sem in, lobortis mauris hendrerit ante."
+                            "title": "Corporación Municipal de Iquique (CORMUDESI)",
+                            "subtitle": "Soporte Ti (2012 - 2024)",
+                            "description": "Soporte de planta en CESFAM Guzmán de Iquique, administración de red local, mantenimiento de red y equipos, instalación de red y asesoría computacional a la dirección local."
                         }
                     ]
                 }
@@ -948,121 +889,71 @@
                     "items": [
                         {
                             "id": 1,
-                            "title": "John Due",
+                            "title": "Herramientas Python para procesamiento de datos",
                             "path": "#!",
                             "images": [
                                 {
-                                    "src": "../images/client/png/client1.png"
+                                    "src": "../images/client/png/python_curso.png"
                                 }
                             ]
                         },
                         {
                             "id": 2,
-                            "title": "Smiths Marth",
+                            "title": "Python Essentials I",
                             "path": "#!",
                             "images": [
                                 {
-                                    "src": "../images/client/png/client2.png"
+                                    "src": "../images/client/png/python_curso2.png"
                                 }
                             ]
                         },
                         {
                             "id": 3,
-                            "title": "Add Dev",
+                            "title": "JS Moderno (2024)",
                             "path": "#!",
                             "images": [
                                 {
-                                    "src": "../images/client/png/client3.png"
+                                    "src": "../images/client/png/js_curso.png"
                                 }
                             ]
                         },
                         {
                             "id": 4,
-                            "title": "John Due",
+                            "title": "Diplomado en Administración de Base de Datos",
                             "path": "#!",
                             "images": [
                                 {
-                                    "src": "../images/client/png/client4.png"
+                                    "src": "../images/client/png/diplomado.png"
                                 }
                             ]
                         },
                         {
                             "id": 5,
-                            "title": "John Due",
+                            "title": "Typescript sin fronteras",
                             "path": "#!",
                             "images": [
                                 {
-                                    "src": "../images/client/png/client1.png"
+                                    "src": "../images/client/png/ts_curso.png"
                                 }
                             ]
                         },
                         {
                             "id": 6,
-                            "title": "Adon Smith",
+                            "title": "VSC: Velocidad al codificar",
                             "path": "#!",
                             "images": [
                                 {
-                                    "src": "../images/client/png/client5.png"
+                                    "src": "../images/client/png/vscode_curso.png"
                                 }
                             ]
                         },
                         {
                             "id": 7,
-                            "title": "Smitha Mila",
+                            "title": "React: 0 a experto",
                             "path": "#!",
                             "images": [
                                 {
-                                    "src": "../images/client/png/client1.png"
-                                }
-                            ]
-                        },
-                        {
-                            "id": 8,
-                            "title": "Sultana Mila",
-                            "path": "#!",
-                            "images": [
-                                {
-                                    "src": "../images/client/png/client2.png"
-                                }
-                            ]
-                        },
-                        {
-                            "id": 9,
-                            "title": "Jannat",
-                            "path": "#!",
-                            "images": [
-                                {
-                                    "src": "../images/client/png/client1.png"
-                                }
-                            ]
-                        },
-                        {
-                            "id": 10,
-                            "title": "Mila Dus",
-                            "path": "#!",
-                            "images": [
-                                {
-                                    "src": "../images/client/png/client5.png"
-                                }
-                            ]
-                        },
-                        {
-                            "id": 11,
-                            "title": "Marth Smiths",
-                            "path": "#!",
-                            "images": [
-                                {
-                                    "src": "../images/client/png/client1.png"
-                                }
-                            ]
-                        },
-                        {
-                            "id": 12,
-                            "title": "Marth Smiths",
-                            "path": "#!",
-                            "images": [
-                                {
-                                    "src": "../images/client/png/client3.png"
+                                    "src": "../images/client/png/react_curso.png"
                                 }
                             ]
                         }
