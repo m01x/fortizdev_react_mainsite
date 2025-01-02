@@ -1210,7 +1210,7 @@
             },
             "images": [
                 {
-                    "src": "../images/contact/contact1.png"
+                    "src": "../images/footer-banner.png"
                 }
             ],
             "headings": [
@@ -1218,12 +1218,12 @@
                     "content": "Flavio Ortiz"
                 },
                 {
-                    "content": "Ingeniero en informática"
+                    "content": "Ingeniero en informática - Programador de aplicaciones computacionales"
                 }
             ],
             "texts": [
                 {
-                    "content": "Soporte TI, Desarrollador Javscript/PHP."
+                    "content": "Si tienes alguna consulta, rectificar información, duda o simplemente deseas saludar, no dudes en escribirme. Estoy disponible en Threads😉."
                 }
             ]
         }

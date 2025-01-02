@@ -3,7 +3,7 @@ module.exports = {
         siteUrl: "https://www.yourdomain.tld",
         title: "fortizdev✨",
         description: "Awesome Gatsby template",
-        author: "Rainbow IT",
+        author: "Don Moix",
         siteLanguage: "en",
         image: "banner.jpg",
         titleTemplate: "inbio",
@@ -31,8 +31,8 @@ module.exports = {
             },
         ],
         contact: {
-            phone: "01234567890",
-            email: "admin@example.com",
+            phone: "",
+            email: "fortiz.informatica@gmail.com",
         },
     },
     plugins: [

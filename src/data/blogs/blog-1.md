@@ -1,20 +1,27 @@
 ---
-title: T-shirt design is the part of design
-date: 2021-05-02 11:10:00
-category: canada
+title: Blog 0
+date: 2025-01-01 22:54:00
+category: Dev Life
 image: {
-	src: "../images/blog/blog-big-01.jpg"
+	src: "../images/blog/blog-01.jpg"
 }
 ---
 
-Nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. Typi non habent claritatem insitam; est usus legentis in iis qui facit eorum claritatem. Investigationes demonstraverunt lectores legere me lius quod ii legunt saepius. Claritas est etiam processus dynamicus, qui sequitur mutationem consuetudium lectorum.
+### Tradición es tradición: ¡Hola Mundo!
+¡Y pues ocurrió!, hace mucho tiempo que debi hacer esta migración de mi sitio a React y para mi es muy grato recibirte por aquí.
+Pretengo que mis blogs sean algo mas coloquial, no tan formal, algo mucho mas distendido que no lo se, LinkedIn , por lo menos es lo que he pensado.
 
-#### Nobis eleifend option conguenes.
+Todavia no encuentro un sistema de blogging que me permita postear de forma más comoda, puede que termine programandolo yo mismo 😉,
+pero de momento, esta forma algo incomoda es lo que hay y queria iniciar ya mismo con esto.
 
-Mauris tempor, orci id pellentesque convallis, massa mi congue eros, sed posuere massa nunc quis dui. Integer ornare varius mi, in vehicula orci scelerisque sed. Fusce a massa nisi. Curabitur sit amet suscipit nisl. Sed eget nisl laoreet, suscipit enim nec, viverra eros. Nunc imperdiet risus leo, in rutrum erat dignissim id.
 
-Ut rhoncus vestibulum facilisis. Duis et lorem vitae ligula cursus venenatis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nunc vitae nisi tortor. Morbi leo nulla, posuere vel lectus a, egestas posuere lacus. Fusce eleifend hendrerit bibendum. Morbi nec efficitur ex.
+#### Proyectos e ideas.
+Planeo digitalizar algunos proyectos que quiero montar pronto... me gustaria compartir aqui el estado de algunos de ellos y para eso
+debo estudiar/practicar algunas cosas... armar mi propia base de código.
 
-#### Mauris tempor, orci id pellentesque.
 
-Nulla non ligula vel nisi blandit egestas vel eget leo. Praesent fringilla dapibus dignissim. Pellentesque quis quam enim. Vestibulum ultrices, leo id suscipit efficitur, odio lorem rhoncus dolor, a facilisis neque mi ut ex. Quisque tempor urna a nisi pretium, a pretium massa tristique. Nullam in aliquam diam. Maecenas at nibh gravida, ornare eros non, commodo ligula. Sed efficitur sollicitudin auctor. Quisque nec imperdiet purus, in ornare odio. Quisque odio felis, vestibulum et.
+
+#### Y esta fue mi primera entrada 👍.
+No fue tan dificil como lo esperaba... JeJe. Espero compartir un poco de las cosas que me llaman la atención... esperando siempre no aburrir por supuesto 😂.
+
+Puedes seguirme en [Threads](https://www.threads.net/@don_moix) donde intento mantenerme más activo😉👋.
