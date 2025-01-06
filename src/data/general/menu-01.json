@@ -28,12 +28,7 @@
             "path": "clients"
         },
         {
-            "id": 7,
-            "text": "Blog",
-            "path": "blog"
-        },
-        {
-            "id": 8,
+            "id": 6,
             "text": "Contacto",
             "path": "contacts"
         }
