@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkinbio_gatsby=self.webpackChunkinbio_gatsby||[]).push([[8446],{8446:function(e,s,t){t.r(s),s.default=t.p+"static/Feather-fd37e01674b76dcc50cf7a7d9b381609.svg"}}]);
-//# sourceMappingURL=8446-ecaf367ce8851e39a229.js.map
