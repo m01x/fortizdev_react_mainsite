@@ -1,5 +1,6 @@
 module.exports = {
     siteMetadata: {
+        pathPrefix: "/fortizdev_react_mainsite",
         siteUrl: "https://www.fortizdev.cl",
         title: "fortizdev✨",
         description: "Awesome Gatsby template",
