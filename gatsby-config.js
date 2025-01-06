@@ -1,4 +1,5 @@
 module.exports = {
+    pathPrefix: "/fortizdev_react_mainsite",
     siteMetadata: {
         siteUrl: "https://www.fortizdev.cl",
         title: "fortizdev✨",
