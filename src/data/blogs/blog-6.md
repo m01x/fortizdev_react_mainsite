@@ -1,6 +1,6 @@
 ---
 title: Mobile app landing design & app service
-date: 2021-05-03 11:10:00
+date: "2021-05-03 11:10:00"
 category: Application
 image: {
 	src: "../images/blog/blog-02.jpg"

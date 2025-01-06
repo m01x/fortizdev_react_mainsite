@@ -1,6 +1,6 @@
 ---
 title: The services provide for development
-date: 2021-15-02 11:10:00
+date: "2021-15-02 11:10:00"
 category: development
 image: {
 	src: "../images/blog/blog-01.jpg"

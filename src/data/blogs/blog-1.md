@@ -1,6 +1,6 @@
 ---
 title: Blog 0
-date: 2025-01-01 22:54:00
+date: "2025-01-01 22:54:00"
 category: Dev Life
 image: {
 	src: "../images/blog/blog-01.jpg"
