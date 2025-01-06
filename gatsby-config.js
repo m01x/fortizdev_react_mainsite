@@ -1,6 +1,6 @@
 module.exports = {
     siteMetadata: {
-        siteUrl: "https://www.yourdomain.tld",
+        siteUrl: "https://www.fortizdev.cl",
         title: "fortizdev✨",
         description: "Awesome Gatsby template",
         author: "Don Moix",
@@ -84,8 +84,8 @@ module.exports = {
         {
             resolve: `gatsby-plugin-manifest`,
             options: {
-                name: "Inbio",
-                short_name: "inbio",
+                name: "fortiz:dev",
+                short_name: "f:dev",
                 theme_color: "#ff014f",
                 background_color: "#ffffff",
                 display: "standalone",
